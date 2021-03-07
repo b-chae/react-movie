@@ -1,3 +1,4 @@
 # Movie App
 
-React JS Fundamentals Course
+#### React 기초
+> https://b-chae.github.io/react-movie/
